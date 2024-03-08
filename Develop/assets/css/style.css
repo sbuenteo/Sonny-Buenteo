@@ -118,22 +118,27 @@ p {
     text-align: center;
 }
 
+/* Change background color of images to white for better contrast of image */
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    background-color: white;
 }
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    background-color: white;
 }
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    background-color: white;
 }
 
 .search-engine-optimization {
